@@ -113,3 +113,9 @@ img{
     font-weight: normal;
     padding: 1rem 0;
 }
+.copyright{
+    background-color: #432;
+    text-align: center;
+    padding-top: 6rem;
+    color: #fff;
+}
