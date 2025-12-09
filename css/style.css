@@ -233,16 +233,16 @@ img{
 }
 
 /*HOME*/
-.cover-home{
-    background-image: url(../images/cover-home-l.webp);
+.cover-news{
+    background-image: url(../images/cover-news-l.webp);
 }
 .about{
     margin: 4rem auto 0;
 }
 
-/* NES */
+/* NEWS */
 .cover-news{
-    background-image: url(../images/cover-home-l.webp);
+    background-image: url(../images/cover-news-l.webp);
 }
 
 /*フッター*/
