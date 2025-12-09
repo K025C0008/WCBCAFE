@@ -207,23 +207,21 @@ img{
     .page-title{
             font-size: 5rem;
         }
-        .heading-large{
+    .heading-large{
             font-size: 4rem;  
         }
-        .post-title{
+    .post-title{
             font-size: 2rem;
         }
-        /*ヘッダー*/
-        .page-header{
-            display: flex;
-            justify-content: space-between;
-            padding-top: 1.5rem;
-        
+    /*ヘッダー*/
+    .page-header{
+        display: flex;
+        justify-content: space-between;
+        padding-top: 1.5rem;
         }
         .main-nav{
             font-size: 2rem;
         }
-
         .post{
             width: 60%;
             order: 2;
@@ -235,7 +233,6 @@ img{
         .ad{
             order: 1;
         }
-
 }
 
 /* ヘッダーカバー画像 */
@@ -266,6 +263,7 @@ img{
 .sidebar{
     width: 22%;
 }
+
 .sidebar .heading-medium{
     line-height: 1;
     margin-bottom: 1rem;
