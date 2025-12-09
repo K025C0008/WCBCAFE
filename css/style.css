@@ -242,14 +242,14 @@ img{
     }
     /*HOME*/
     .cover-home{
-        background-image: url(../images/cover-home-s.webp);
+        background-image: url(../images/cover-home-l.webp);
     }
     .about{
         margin: 4rem auto 0;
     }
     /* NEWS */
     .cover-news{
-        background-image: url(../images/images/cover-news-s.webp);
+        background-image: url(../images/cover-news-l.webp);
     }
     .news-contents{
         display: flex;
