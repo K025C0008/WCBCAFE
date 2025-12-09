@@ -201,6 +201,11 @@ img{
     color: #0bd;
 }
 
+/* MENU */
+.cover-menu{
+    background-image: url(../images/cover-menu-s.webp);
+}
+
 /*デスクトップ版*/
 @media(min-width: 800px) {
     /*見出し*/
