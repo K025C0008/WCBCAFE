@@ -219,16 +219,16 @@ img{
         justify-content: space-between;
         padding-top: 1.5rem;
         }
-        .main-nav{
-            font-size: 2rem;
+    .main-nav{
+        font-size: 2rem;
         }
-        .post{
-            width: 60%;
-            order: 2;
+    .post{
+        width: 60%;
+        order: 2;
         }
-        .sidebar{
-            width: 22%;
-            order: 3;
+    .sidebar{
+        width: 22%;
+        order: 3;
         }
         .ad{
             order: 1;
